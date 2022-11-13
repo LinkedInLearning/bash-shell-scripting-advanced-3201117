@@ -1,0 +1,15 @@
+ggT() {
+	a=$1
+	b=$2
+
+	while [ $b -gt 0 ]
+	do
+		temp=`expr $a % $b`
+		a=$b
+		b=$temp
+	done
+	
+	echo $a
+}
+
+
