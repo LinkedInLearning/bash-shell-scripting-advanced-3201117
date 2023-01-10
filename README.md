@@ -1,10 +1,10 @@
-# [DE-Kursname hier eintragen]
+# Bash-Shell-Scripting für Fortgeschrittene: Variablen, Funktionen und Prozessmanagement
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Bash-Shell-Scripting für Fortgeschrittene: Variablen, Funktionen und Prozessmanagement`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![image](https://user-images.githubusercontent.com/61017085/211617364-a5ae664e-0aac-4064-b587-12440ebb125c.png) 
 
-[COURSEDESCRIPTION]
+Möchten Sie Ihre Fähigkeiten im Schreiben von Bash-Skripten auf das nächste Level bringen? Dann ist dieser Video-Kurs zum Thema fortgeschrittenes Bash-Scripting genau das Richtige für Sie! Sie werden lernen, wie man die Möglichkeiten von Parametern und Variablen ausreizt, komplexe Eingaben aus verschiedenen Quellen erlaubt und benutzerdefinierte Funktionen schreibt. Abschließend führt Sie Tim Schürmann noch in das fortgeschrittene Prozess- und Skriptmanagement ein und zeigt Ihnen, wie Sie Subshells nutzen, Teile von Skripten effizient wiederverwenden oder Hintergrunddienste aus Ihren Skripten starten können.
 
 ## Anleitung
 
@@ -31,8 +31,7 @@ Die Unterverzeichnisse liefern in ihrem Namen zudem einen Hinweis auf das behand
 
 _Diplom-Informatiker und IT-Journalist_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/tim_schuermann) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement
