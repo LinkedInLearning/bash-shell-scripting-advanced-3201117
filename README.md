@@ -31,7 +31,7 @@ Die Unterverzeichnisse liefern in ihrem Namen zudem einen Hinweis auf das behand
 
 _Diplom-Informatiker und IT-Journalist_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/tim_schuermann) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/tim-schurmann) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement
