@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Bash-Shell-Scripting für Fortgeschrittene: Variablen, Funktionen und Prozessmanagement`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/61017085/211617364-a5ae664e-0aac-4064-b587-12440ebb125c.png) 
+![COURSENAME][lil-thumbnail-url]  
 
 Möchten Sie Ihre Fähigkeiten im Schreiben von Bash-Skripten auf das nächste Level bringen? Dann ist dieser Video-Kurs zum Thema fortgeschrittenes Bash-Scripting genau das Richtige für Sie! Sie werden lernen, wie man die Möglichkeiten von Parametern und Variablen ausreizt, komplexe Eingaben aus verschiedenen Quellen erlaubt und benutzerdefinierte Funktionen schreibt. Abschließend führt Sie Tim Schürmann noch in das fortgeschrittene Prozess- und Skriptmanagement ein und zeigt Ihnen, wie Sie Subshells nutzen, Teile von Skripten effizient wiederverwenden oder Hintergrunddienste aus Ihren Skripten starten können.
 
@@ -35,3 +35,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/bash-shell-scripting-fur-fortgeschrittene-variablen-funktionen-und-prozessmanagement
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQHuBJF1JFPncQ/learning-public-crop_675_1200/0/1672835861176?e=2147483647&v=beta&t=8tAlsChk5XhmP1hOvWlficiyWI01C95kFuhNqz2t8S8
